@@ -8,7 +8,7 @@ export const Data = [
         img: flatiron,
         text: 'Hospital app for doctors to use in a hospital, urgent care, or even private practice setting. This app allows doctors to keep track of important patient information.',
         github: 'https://github.com/aribakhan97/flatiron-general-frontend',
-        demo: '',
+        demo: 'https://youtu.be/2IIcpnRPxeY',
         technologies: ['Ruby','postgreSQL','Javascript', 'React', 'Bootstrap', 'RxNav API']
 
     },
