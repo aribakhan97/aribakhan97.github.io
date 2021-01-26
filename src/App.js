@@ -12,7 +12,7 @@ function App() {
     <Nav className="mr-auto nav-bar-right">
       <Nav.Link href="https://www.linkedin.com/in/ariba-khan/" target="_blank" rel="noopener noreferrer">LinkedIn</Nav.Link>
       <Nav.Link href="https://github.com/aribakhan97" target="_blank" rel="noopener noreferrer">Github</Nav.Link>
-      <Nav.Link href="https://medium.com/@aribakhann97" target="_blank" rel="noopener noreferrer">Medium</Nav.Link>
+      <Nav.Link href="https://ariba-khan.medium.com/" target="_blank" rel="noopener noreferrer">Medium</Nav.Link>
       <Nav.Link href="https://drive.google.com/file/d/17MEM0bWGcecMZKjgDatjcxhu5rYn5Ja-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume </Nav.Link>
       <Nav.Link href="mailto:akhan41@binghamton.edu" target="_blank" rel="noopener noreferrer">Contact</Nav.Link>
     </Nav>
