@@ -3,6 +3,7 @@ import './App.css';
 import ProjectContainer from './Containers/ProjectContainer'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Navbar, Nav, Jumbotron, Container, Image} from 'react-bootstrap'
+import profilepic from './Pictures/profilepic'
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
   </Navbar>
   <div className='lining'>
         <Jumbotron className = 'jumbo'>
-        <Image className='profile-image' src="https://media-exp1.licdn.com/dms/image/C4E03AQGLi5deSpcrpQ/profile-displayphoto-shrink_400_400/0/1607455654305?e=1616025600&v=beta&t=ssbXbLLN_LbT7vJ7UmWYB37WXaovmB-8zjqahOZKB4k" rounded />
+        <Image className='profile-image' src={profilepic} rounded />
 
   <Container>
     <h1> Ariba Khan - Software Engineer</h1>
