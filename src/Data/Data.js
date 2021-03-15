@@ -2,6 +2,8 @@ import flatiron  from '../Pictures/flatiron.png'
 import care  from '../Pictures/care.png'
 import frigenhungry  from '../Pictures/frigenhungry.png'
 import finance  from '../Pictures/finance.png'
+import covidtracker  from '../Pictures/covidtracker.png'
+
 export const Data = [
     {
         Name: 'Flatiron General Hospital', 
@@ -11,6 +13,15 @@ export const Data = [
         demo: 'https://youtu.be/2IIcpnRPxeY',
         technologies: ['Ruby','postgreSQL','Javascript', 'React', 'Bootstrap', 'RxNav API']
 
+    },
+
+    {
+        Name: 'Global Covid Tracker', 
+        img: covidtracker,
+        text: 'An app to keep track of statistics during the COVID-19 pandemic. These statistics retrieve real-time global numbers of people recovered, infected, and mortalities from the COVID-19 virus using an external API. This app was made using a Javascript Mastery Tutorial.',
+        github: 'https://github.com/aribakhan97/covid-tracker',
+        demo: '',
+        technologies: ['Javascript','React','Chart.js','Hooks', 'Material IU', 'CSS']
     },
 
     {
@@ -41,7 +52,7 @@ export const Data = [
         text: 'An app to promote staying at home during the pandemic by giving users recipes based on ingredients at hand. Users can select ingredients which they have at home and get nutritional facts on specific items.',
         github: 'https://github.com/aribakhan97/FridgenHungry-frontend',
         demo: '',
-        technologies: ['Ruby','postgreSQL','Javascript', 'React', 'Bootstrap', 'Edamam API']
+        technologies: ['Ruby','postgreSQL','Javascript', 'React', 'Bootstrap', 'Edamam API', 'CSS']
 
 
     },

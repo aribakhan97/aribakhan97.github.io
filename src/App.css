@@ -41,6 +41,8 @@
 
 .profile-image {
   float: left;
+  width: 275px;
+  height: 315px;
 }
 
 .nav-bar-right {

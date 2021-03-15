@@ -3,7 +3,7 @@ import './App.css';
 import ProjectContainer from './Containers/ProjectContainer'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Navbar, Nav, Jumbotron, Container, Image} from 'react-bootstrap'
-import profilepic from './Pictures/profilepic'
+import profilepic from './Pictures/profilepic.jpg'
 
 function App() {
   return (
